@@ -116,7 +116,6 @@ public final class DeviceUtils {
                     return true;
                 }
             }
-            return false;
         }
 
         if (ContextCompat.getSystemService(context, UiModeManager.class)
